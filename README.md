@@ -7,7 +7,8 @@ Olá, eu sou Pedro Lucas, um estudante universitário no segundo período, e atu
 <div align="center">
   <a href="https://github.com/PedroLVieira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroLVieira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLVieira&layout=compact&langs_count=7&theme=omni"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLVieira&layout=compact&theme=omni"/>
+    
 </div>
 
 ##
